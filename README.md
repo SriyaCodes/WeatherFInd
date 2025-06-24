@@ -1,6 +1,8 @@
 # WeatherFind
 A simple web app that lets users search for current weather conditions in any city worldwide using the OpenWeatherMap API.
 
+View live here: https://weather-find-iota.vercel.app/
+
 Features:
 
 Search for weather by city name
